@@ -28,7 +28,7 @@ function App() {
             </a>
             and
             <a
-              href="https://camila-frontend-portfolio.netlify.app/"
+              href="https://react-weather-app-city.netlify.app/"
               target="_blank"
               rel="noreferrer"
             >
