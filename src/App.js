@@ -11,13 +11,18 @@ function App() {
         <div className="footer">
           <p>
             This project was coded by{" "}
-            <a href="https://github.com/camilapferreira" target="_blank">
+            <a
+              href="https://github.com/camilapferreira"
+              target="_blank"
+              rel="noreferrer"
+            >
               Camila P. Ferreira{" "}
             </a>
             and it is{" "}
             <a
-              href="https://github.com/camilapferreira/frontend-portfolio"
+              href="https://github.com/camilapferreira/react-weather-app"
               target="_blank"
+              rel="noreferrer"
             >
               on GitHub{" "}
             </a>
@@ -25,6 +30,7 @@ function App() {
             <a
               href="https://camila-frontend-portfolio.netlify.app/"
               target="_blank"
+              rel="noreferrer"
             >
               {" "}
               hosted on Netlify{" "}
